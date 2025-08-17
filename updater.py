@@ -8,7 +8,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 APP_VERSION = "1.1.0"
-UPDATE_MANIFEST_URL = "https://your.host/vrchat-uploader/manifest.json"
+UPDATE_MANIFEST_URL = "https://github.com/5nafprodude/VRChat-Uploader/blob/main/manifest.json"
 
 
 def _sha256(path):
