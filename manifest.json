@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://your.host/VRChat-Uploader-1.2.0.exe",
-  "sha256": "b3a9...<64 hex chars>...",
-  "notes": "• Bigger Browse button\n• Drag & drop fixes"
+  "version": "1.2.0",
+  "url": "https://github.com/5nafprodude/VRChat-Uploader/releases/download/1.2.0/VRChat.Uploader.exe",
+  "sha256": "6FD410094434ABCE161EBD58FB5B6B61848CE59AE574D51909144F6FE094A6AC",
+  "notes": "• We on github now"
 }
